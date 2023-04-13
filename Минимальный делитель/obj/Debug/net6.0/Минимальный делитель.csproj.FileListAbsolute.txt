@@ -1,0 +1,15 @@
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\bin\Debug\net6.0\Минимальный делитель.exe
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\bin\Debug\net6.0\Минимальный делитель.deps.json
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\bin\Debug\net6.0\Минимальный делитель.runtimeconfig.json
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\bin\Debug\net6.0\Минимальный делитель.dll
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\bin\Debug\net6.0\Минимальный делитель.pdb
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.csproj.AssemblyReference.cache
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.AssemblyInfoInputs.cache
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.AssemblyInfo.cs
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.csproj.CoreCompileInputs.cache
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.dll
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\refint\Минимальный делитель.dll
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.pdb
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\Минимальный делитель.genruntimeconfig.cache
+C:\Users\ASUS s14\Desktop\C#\3 курс\Минимальный делитель\Минимальный делитель\obj\Debug\net6.0\ref\Минимальный делитель.dll
